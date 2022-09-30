@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Tests the proper operation of the user stack and system stack, and also tests that accessing system memory in user mode gives an error and exits.
 ---
 
-## How to run:
+## How to run
 
 1. Compile all source code files in the directory using one of the following the commands:
 
@@ -53,15 +53,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     javac *.java
     ```
 
-2. Run the program using the following command, with the absolute path or input file name and timer value as parameters:
+2. Run the program using the following command, with an absolute path or input file name and valid timer value as arguments:
 
-    ```java
-    java CPU.class sample<#>.txt <timer integer value>
+    ```bash
+    java CPU sample<#>.txt <timer value>
     ```
 
    Example:
 
-    ```java
-    java CPU.class sample2.txt 10
+    ```bash
+    java CPU sample2.txt 10
     ```
 
