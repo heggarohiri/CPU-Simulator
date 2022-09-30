@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Memory {
@@ -14,7 +15,7 @@ public class Memory {
         Scanner input = null;
         try {
             input = new Scanner(new File(filePath));
-        } catch (Exception ex) {
+        } catch (FileNotFoundException ex) {
             System.out.println("ERROR: Cannot open file.");
             System.exit(-1);
         }

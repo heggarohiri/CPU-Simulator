@@ -4,8 +4,6 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
----
-
 ## **Project files:**
 
 **Source code:**
@@ -37,4 +35,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     javac *.java
     ```
 
-2. Run the program with the command:
+2. Run the program using the following command, with the absolute path or input file name and timer value as parameters:
+
+    ```java
+    java CPU.class sample<#>.txt <timer integer value>
+    ```
+
+   Example:
+
+    ```java
+    java CPU.class sample2.txt 10
+    ```
+
