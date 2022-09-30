@@ -8,37 +8,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### **Source code**
 
-`**Memory.java`**
+`Memory.java`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 - quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
 
-`**CPU.java**`
+`CPU.java`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 - quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
 
 ### Program i**nput files**
 
-`**sample1.txt**`
+`sample1.txt`
 
 - Tests the indexed load instructions.
 - Outputs two tables:
     1. Characters A-Z
     2. Numbers 1-10
 
-`**sample2.txt**`
+`sample2.txt`
 
 - Tests the `call`/`ret` instructions.
 - Outputs a smiley face where the lines are printed using subroutine calls.
 
-`**sample3.txt**`
+`sample3.txt`
 
 - Tests the `int`/`iret` instructions.
 - The main loop is printing the letter A followed by a number that is being periodically incremented by the timer.
 - The number will increment faster if the timer period is shorter.
 
-`**sample4.txt**`
+`sample4.txt`
 
 - Tests the proper operation of the user stack and system stack, and also tests that accessing system memory in user mode gives an error and exits.
 
@@ -70,5 +70,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     ```java
     java CPU sample2.txt 10
     ```
-   
-
