@@ -55,13 +55,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 2. Run the program using the following command, with an absolute path or input file name and valid timer value as arguments:
 
-    ```bash
+    ```shell
     java CPU sample<#>.txt <timer value>
     ```
 
    Example:
 
-    ```bash
+    ```shell
     java CPU sample2.txt 10
     ```
 
