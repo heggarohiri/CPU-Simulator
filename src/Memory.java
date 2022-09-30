@@ -78,10 +78,22 @@ public class Memory {
         }
     }
 
+    /**
+     * Method retrieves the data stored in memory at the given address.
+     *
+     * @param address the address of the data
+     * @return the value stored at the address
+     */
     public static int read(int address) {
         return memory[address];
     }
 
+    /**
+     * Method writes data to memory at the given address.
+     *
+     * @param address
+     * @param data the value to be stored at the address
+     */
     public static void write(int address, int data) {
         memory[address] = data;
     }

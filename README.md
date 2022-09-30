@@ -1,23 +1,41 @@
 # CPU Simulator
 
-## Project description:
+## Project description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## **Project files:**
+## **Project files**
 
-**Source code:**
+### **Source code**
+
+`Memory.java`
 
 - Memory.java —
 - CPU.java
 
-**Input files:**
+### Program i**nput files**
 
-- sample1.txt
-- sample2.txt
-- sample3.txt
-- sample4.txt
+`sample1.txt`
 
+- Tests the indexed load instructions.
+- Outputs two tables:
+   1. Characters from A-Z
+   2. Numbers from 1-10
+
+`sample2.txt`
+
+- Tests the `call`/`ret` instructions.
+- Outputs a smiley face where the lines are printed using subroutine calls.
+
+`sample3.txt`
+
+- Tests the `int`/`iret` instructions.
+- The main loop is printing the letter A followed by a number that is being periodically incremented by the timer.
+- The number will increment faster if the timer period is shorter.
+
+`sample4.txt`
+
+- Tests the proper operation of the user stack and system stack, and also tests that accessing system memory in user mode gives an error and exits.
 ---
 
 ## How to run:
