@@ -1,12 +1,14 @@
 # CPU Simulator
 
-## Project description
+## Project Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project simulates a simple computer system that consists of a CPU and Memory. Both the CPU and Memory are simulated by separate processes that communicate with each other. The Memory file contains one program that the CPU executes and then the simulation ends.
 
-## **Project files**
+### Built With
 
-### **Source code**
+## **Project Files**
+
+### **Source Code**
 
 `Memory.java`
 
@@ -18,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 - quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
 
-### Program i**nput files**
+### Program I**nput Files**
 
 `sample1.txt`
 
@@ -44,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-## How to run
+## How to Run
 
 1. Compile all source code files in the directory using one of the following the commands:
 
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     javac *.java
     ```
 
-2. Run the program using the following command, with an absolute path or input file name and valid timer value as arguments:
+2. Execute and run the program using the following command, with an absolute path or input file name and valid timer value as arguments:
 
     ```
     java CPU sample<#>.txt <timer value>
@@ -67,6 +69,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
    Example:
 
-    ```java
+    ```
     java CPU sample2.txt 10
     ```

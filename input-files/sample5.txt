@@ -1,0 +1,1142 @@
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 61 = =
+61
+9
+2
+1 	\\ Load 61 = =
+61
+9
+2
+1 	\\ Load 61 = =
+61
+9
+2
+1 	\\ Load 61 = =
+61
+9
+2
+1 	\\ Load 61 = =
+61
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 38 = &
+38
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 38 = &
+38
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 38 = &
+38
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 38 = &
+38
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 60 = <
+60
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 60 = <
+60
+9
+2
+1 	\\ Load 37 = %
+37
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 38 = &
+38
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 44 = ,
+44
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 44 = ,
+44
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 58 = :
+58
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 124 = |
+124
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 41 = )
+41
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 47 = /
+47
+9
+2
+1 	\\ Load 32 = space
+32
+9
+2
+1 	\\ Load 92 = \
+92
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 34 = "
+34
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 40 = (
+40
+9
+2
+1 	\\ Load 95 = _
+95
+9
+2
+1 	\\ Load 46 = .
+46
+9
+2
+1 	\\ Load 79 = O
+79
+9
+2
+1 	\\ Load 111 = o
+111
+9
+2
+1 	\\ Load 111 = o
+111
+9
+2
+1 	\\ Load 39 = '
+39
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 45 = -
+45
+9
+2
+1 	\\ Load 10 = newline
+10
+9
+2
+50	\\ End
+1 	\\ Load 10 = newline
+10
+9	\\ Put 2
+2
+24	\\ Return
