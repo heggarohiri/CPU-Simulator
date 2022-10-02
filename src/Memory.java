@@ -12,7 +12,13 @@ public class Memory {
      */
     public Memory(String filePath) {
 
+        // Initialize the scanner to null
         Scanner input = null;
+
+        /*
+         * Open the file and read from the text file. If the file object does not exist, throw a FileNotFound exception
+         * and terminate the process.
+         */
         try {
             input = new Scanner(new File(filePath));
         } catch (FileNotFoundException ex) {
@@ -56,23 +62,33 @@ public class Memory {
 
         while (scanner.hasNext()) {
 
+            // Read the next command from the CPU
             line = scanner.nextLine();
 
+            // Split the command into an array
             String[] arr = line.split("\\s+");
+
+            // Get the character of the command
             String command = arr[0];
 
             switch (command) {
+
+                /* Read the data from memory */
                 case "r":
                     address = Integer.parseInt(arr[1]);
                     System.out.println(read(address));
                     break;
+
+                /* Write the data to memory */
                 case "w":
                     address = Integer.parseInt(arr[1]);
                     data = Integer.parseInt(arr[2]);
                     write(address, data);
                     break;
+
+                /* Terminate the process if the command is invalid */
                 default:
-                    System.out.println("ERROR: Invalid command.");
+                    System.out.printf("Invalid command: %s.", command);
                     System.exit(-1);
             }
         }
@@ -91,7 +107,7 @@ public class Memory {
     /**
      * Method writes data to memory at the given address.
      *
-     * @param address
+     * @param address the address the data will be stored
      * @param data the value to be stored at the address
      */
     public static void write(int address, int data) {
@@ -112,6 +128,8 @@ public class Memory {
 
             // Initialize the memory array
             Memory memory1 = new Memory(filePath);
+
+            // Run the memory program
             memory1.runMemory(scanner);
 
 
